@@ -1,0 +1,323 @@
+!SESSION 2018-07-26 16:53:07.129 -----------------------------------------------
+eclipse.buildId=R3.7.7.201801311814
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:15.080
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:15.082
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:16.870
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:16.879
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java IO.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.522
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 并发.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.541
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.545
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 容器.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.551
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.559
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Spring.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.585
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\分布式学习.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.590
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\计算机网络.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.592
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\数据库.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.597
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\中间件.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-26 16:53:18.727
+!MESSAGE Ready to open files: [D:\git\github\Interview-Xmind\xmind\HTTP.xmind, D:\git\github\Interview-Xmind\xmind\Java IO.xmind, D:\git\github\Interview-Xmind\xmind\Java 并发.xmind, D:\git\github\Interview-Xmind\xmind\Java 基础.xmind, D:\git\github\Interview-Xmind\xmind\Java 容器.xmind, D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind, D:\git\github\Interview-Xmind\xmind\Spring.xmind, D:\git\github\Interview-Xmind\xmind\分布式学习.xmind, D:\git\github\Interview-Xmind\xmind\计算机网络.xmind, D:\git\github\Interview-Xmind\xmind\数据库.xmind, D:\git\github\Interview-Xmind\xmind\中间件.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.734
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.754
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java IO.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.755
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 并发.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.758
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 基础.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.759
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 容器.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.760
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.762
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Spring.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.764
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\分布式学习.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.765
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\计算机网络.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.766
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\数据库.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-26 16:53:18.766
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\中间件.xmind
+
+!ENTRY org.xmind.core.command.remote.lan 2 23333 2018-07-26 16:53:20.031
+!MESSAGE Bonjour installation is not found or damaged.
+!STACK 0
+java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1867)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at com.apple.dnssd.AppleDNSSD.<clinit>(DNSSD.java:544)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.apple.dnssd.DNSSD.<clinit>(DNSSD.java:477)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at org.xmind.core.internal.command.remote.lan.LANDiscoveryServiceAdapter.<init>(LANDiscoveryServiceAdapter.java:43)
+	at org.xmind.core.internal.command.remote.lan.LANDiscoveryServiceFactory.createDomainService(LANDiscoveryServiceFactory.java:39)
+	at org.xmind.core.internal.command.remote.CommandServiceDomainImpl.createDomainService(CommandServiceDomainImpl.java:71)
+	at org.xmind.core.internal.command.remote.CommandServiceDomainImpl.getRemoteCommandServiceDiscoverer(CommandServiceDomainImpl.java:135)
+	at org.xmind.core.internal.sharing.LocalNetworkSharingService.activate(LocalNetworkSharingService.java:357)
+	at org.xmind.ui.internal.sharing.ToggleSharingServiceStatusJob.activate(ToggleSharingServiceStatusJob.java:78)
+	at org.xmind.ui.internal.sharing.ToggleSharingServiceStatusJob.run(ToggleSharingServiceStatusJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY net.xmind.workbench 4 0 2018-07-26 16:53:20.961
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1944)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1939)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1938)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1508)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:1009)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:982)
+	... 4 more
+
+!ENTRY org.eclipse.ui 2 2 2018-07-26 16:58:43.082
+!MESSAGE Invalid preference category path: org.eclipse.ui.preferencePages.Workbench (bundle: org.eclipse.ui.net, page: org.eclipse.ui.net.NetPreferences)
+!SESSION 2018-07-27 10:44:36.398 -----------------------------------------------
+eclipse.buildId=R3.7.7.201801311814
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:39.844
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:39.845
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:41.518
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:41.520
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java IO.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.079
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 并发.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.092
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 基础.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.093
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 容器.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.094
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.099
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\Spring.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.121
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\分布式学习.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.122
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\计算机网络.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.124
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\数据库.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.124
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\xmind\中间件.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 10:44:43.237
+!MESSAGE Ready to open files: [D:\git\github\Interview-Xmind\xmind\HTTP.xmind, D:\git\github\Interview-Xmind\xmind\Java IO.xmind, D:\git\github\Interview-Xmind\xmind\Java 并发.xmind, D:\git\github\Interview-Xmind\xmind\Java 基础.xmind, D:\git\github\Interview-Xmind\xmind\Java 容器.xmind, D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind, D:\git\github\Interview-Xmind\xmind\Spring.xmind, D:\git\github\Interview-Xmind\xmind\分布式学习.xmind, D:\git\github\Interview-Xmind\xmind\计算机网络.xmind, D:\git\github\Interview-Xmind\xmind\数据库.xmind, D:\git\github\Interview-Xmind\xmind\中间件.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.244
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\HTTP.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.260
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java IO.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.261
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 并发.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.279
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 基础.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.280
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 容器.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.281
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Java 虚拟机.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.282
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\Spring.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.283
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\分布式学习.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.283
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\计算机网络.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.284
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\数据库.xmind
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 10:44:43.285
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\xmind\中间件.xmind
+
+!ENTRY org.xmind.core.command.remote.lan 2 23333 2018-07-27 10:44:44.456
+!MESSAGE Bonjour installation is not found or damaged.
+!STACK 0
+java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1867)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:870)
+	at java.lang.System.loadLibrary(System.java:1122)
+	at com.apple.dnssd.AppleDNSSD.<clinit>(DNSSD.java:544)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at com.apple.dnssd.DNSSD.<clinit>(DNSSD.java:477)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:264)
+	at org.xmind.core.internal.command.remote.lan.LANDiscoveryServiceAdapter.<init>(LANDiscoveryServiceAdapter.java:43)
+	at org.xmind.core.internal.command.remote.lan.LANDiscoveryServiceFactory.createDomainService(LANDiscoveryServiceFactory.java:39)
+	at org.xmind.core.internal.command.remote.CommandServiceDomainImpl.createDomainService(CommandServiceDomainImpl.java:71)
+	at org.xmind.core.internal.command.remote.CommandServiceDomainImpl.getRemoteCommandServiceDiscoverer(CommandServiceDomainImpl.java:135)
+	at org.xmind.core.internal.sharing.LocalNetworkSharingService.activate(LocalNetworkSharingService.java:357)
+	at org.xmind.ui.internal.sharing.ToggleSharingServiceStatusJob.activate(ToggleSharingServiceStatusJob.java:78)
+	at org.xmind.ui.internal.sharing.ToggleSharingServiceStatusJob.run(ToggleSharingServiceStatusJob.java:49)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY net.xmind.workbench 4 0 2018-07-27 10:44:45.325
+!MESSAGE Failed to retrieve site events: 3
+!STACK 0
+java.net.UnknownHostException: www.xmind.net
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1944)
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1939)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1938)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1508)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:1009)
+	at org.xmind.core.net.internal.XMindNetRequest.executeInDaemonThread(XMindNetRequest.java:896)
+	at org.xmind.core.net.internal.XMindNetRequest.access$0(XMindNetRequest.java:889)
+	at org.xmind.core.net.internal.XMindNetRequest$1.run(XMindNetRequest.java:870)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.UnknownHostException: www.xmind.net
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:673)
+	at sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:173)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:463)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:558)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1156)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1050)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1564)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1492)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:347)
+	at org.xmind.core.net.internal.XMindNetRequest.send(XMindNetRequest.java:982)
+	... 4 more
+
+!ENTRY org.xmind.ui.mindmap 4 4 2018-07-27 17:06:20.503
+!MESSAGE [save] start...[save] add state...[save] clean...[save] doSave start...[save] doSaveWorkbookToTempStorage start...[save] doSaveWorkbookToTempStorage over...[save] doSaveWorkbookToURIFromSource start...[save] new file...[save] serialize start...[save] new FileOutputStream...[save] setOutputStream...[save] serialize success...[save] doSaveWorkbookToURIFromSource over...[save] doSave over...[save] success...over...
+
+!ENTRY org.xmind.ui.mindmap 4 4 2018-07-27 17:22:48.301
+!MESSAGE [save] start...[save] add state...[save] clean...[save] doSave start...[save] doSaveWorkbookToTempStorage start...[save] doSaveWorkbookToTempStorage over...[save] doSaveWorkbookToURIFromSource start...[save] new file...[save] serialize start...[save] new FileOutputStream...[save] setOutputStream...[save] serialize success...[save] doSaveWorkbookToURIFromSource over...[save] doSave over...[save] success...over...
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 17:28:45.550
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 17:28:45.551
+!MESSAGE Ready to open files: [D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 17:28:45.552
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 17:28:48.749
+!MESSAGE Path queued to be opened: D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind
+
+!ENTRY org.xmind.cathy 1 0 2018-07-27 17:28:48.750
+!MESSAGE Ready to open files: [D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2018-07-27 17:28:48.750
+!MESSAGE Malformed URI: D:\git\github\Interview-Xmind\back-end\后端学习路线.xmind
