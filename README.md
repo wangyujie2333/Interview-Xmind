@@ -1,5 +1,5 @@
 # Interview-Xmind
-## Java后端面试知识点整
+## Java后端面试知识点理
 
 - HTTP.xmind
 - Java IO.xmind
